@@ -13,3 +13,4 @@ const verificaMaiorIdade = (idade) => {
 }
 
 console.log(verificaMaiorIdade(20))
+

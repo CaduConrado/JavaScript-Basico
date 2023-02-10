@@ -4,3 +4,4 @@ const notas = [10, 8, 5, 9, 10];
 notas.pop();
 
 console.log(notas);
+
